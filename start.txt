@@ -1,0 +1,4 @@
+hey , i am yash ,and i am just 
+curious why i am witnessing a .swp file extension 
+when i am creating a text file through vim
+
