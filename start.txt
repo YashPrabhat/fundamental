@@ -2,3 +2,16 @@ hey , i am yash ,and i am just
 curious why i am witnessing a .swp file extension 
 when i am creating a text file through vim
 
+Each commit has a hash ID. So, each commit is built on top of each other.
+So, if jyou wanted to delete any commit from the middle, you will not be able toremove only that commit from the middle. 
+
+INSTEAD you will have to remove all the commits above it.
+
+
+COMMAND 
+
+git reset <hash value>
+
+use hash value of that commit above which are those commits which are to be
+removed.
+
